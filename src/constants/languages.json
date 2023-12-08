@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "English"
+  },
+  {
+    "id": 2,
+    "name": "Spanish"
+  },
+  {
+    "id": 3,
+    "name": "French"
+  },
+  {
+    "id": 4,
+    "name": "German"
+  },
+  {
+    "id": 5,
+    "name": "Chinese (Mandarin)"
+  },
+  {
+    "id": 6,
+    "name": "Arabic"
+  },
+  {
+    "id": 7,
+    "name": "Russian"
+  },
+  {
+    "id": 8,
+    "name": "Japanese"
+  },
+  {
+    "id": 9,
+    "name": "Portuguese"
+  },
+  {
+    "id": 10,
+    "name": "Hindi"
+  },
+  {
+    "id": 11,
+    "name": "Bengali"
+  },
+  {
+    "id": 12,
+    "name": "Swahili"
+  },
+  {
+    "id": 13,
+    "name": "Korean"
+  },
+  {
+    "id": 14,
+    "name": "Italian"
+  },
+  {
+    "id": 15,
+    "name": "Dutch"
+  },
+  {
+    "id": 16,
+    "name": "Telugu"
+  },
+  {
+    "id": 17,
+    "name": "Marathi"
+  },
+  {
+    "id": 18,
+    "name": "Tamil"
+  },
+  {
+    "id": 19,
+    "name": "Urdu"
+  },
+  {
+    "id": 20,
+    "name": "Gujarati"
+  },
+  {
+    "id": 21,
+    "name": "Kannada"
+  },
+  {
+    "id": 22,
+    "name": "Odia"
+  },
+  {
+    "id": 23,
+    "name": "Punjabi"
+  },
+  {
+    "id": 24,
+    "name": "Malayalam"
+  },
+  {
+    "id": 25,
+    "name": "Assamese"
+  },
+  {
+    "id": 26,
+    "name": "Sanskrit"
+  }
+]
