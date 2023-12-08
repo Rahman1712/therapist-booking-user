@@ -2,7 +2,7 @@
 import { useNavigate } from "react-router";
 import Marquee from "react-fast-marquee";
 import { MdStars, MdVerified } from 'react-icons/md';
-import TextLoop from "react-text-loop";
+// import TextLoop from "react-text-loop";
 
 const TherapistCard = ({ therapist }) => {
   const navigate = useNavigate();
