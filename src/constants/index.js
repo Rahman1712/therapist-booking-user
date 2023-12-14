@@ -1,5 +1,5 @@
 
-export const API_BASE_URL = "http://user.medicarehealth.website:8080/users";
+export const API_BASE_URL = "https://user.medicarehealth.website:8080/users";
 
 export const ACCESS_TOKEN = "accessToken";
 
