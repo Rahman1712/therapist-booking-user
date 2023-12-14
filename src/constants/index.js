@@ -1,9 +1,11 @@
 
-export const API_BASE_URL = "https://user.medicarehealth.website:8080/users";
+// export const API_BASE_URL = "https://user.medicarehealth.website:8080/users";
+export const API_BASE_URL = import.meta.env.VITE_USER_BASE_URL;
 
 export const ACCESS_TOKEN = "accessToken";
 
-export const OAUTH2_REDIRECT_URI = "https://medicare-eta.vercel.app/oauth2/redirect";
+// export const OAUTH2_REDIRECT_URI = "https://medicare-eta.vercel.app/oauth2/redirect";
+export const OAUTH2_REDIRECT_URI = import.meta.env.VITE_OAUTH_URI;
 
 export const GOOGLE_AUTH_URL = API_BASE_URL + "/oauth2/authorize/google?redirect_uri=" + OAUTH2_REDIRECT_URI + "&user_role=";
 
@@ -32,4 +34,5 @@ export const CHAT_MESSAGES_API = '/api/v1/messages';  // in therapist
 
 export const USER_CHAT_MESSAGES_API = '/api/v1/user-messages';  // in user
 
-export const WEBSOCKET_URI = 'http://localhost:8082/therapists/ws';
+// export const WEBSOCKET_URI = 'http://localhost:8082/therapists/ws';
+export const WEBSOCKET_URI = import.meta.env.VITE_WEBSOCKET_URI;
